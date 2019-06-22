@@ -1,9 +1,4 @@
 /* ------------------------------------------------------
-Template Name: Alime - Photography HTML Template
-Template Author: Colorlib
-Template Author URI: https://colorlib.com
-Version: 1.0.0
-Last Update: Feb 22, 2019
 ----------------------------------------------------- */
 
 /* --------------------------------
@@ -70,4 +65,8 @@ alime/
     ├── index.html
     ├── single-blog.html
     ├── style.css
+<<<<<<< HEAD
     ├── style.css.map# Project-Devf
+=======
+    ├── style.css.map
+>>>>>>> 69e31e6a8e5ff77cd8ea2fa7ea58012b23c58fbf
